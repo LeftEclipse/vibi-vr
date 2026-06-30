@@ -1,0 +1,5 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="7" fill="#2A2622"/>
+  <circle cx="26" cy="6" r="3" fill="#E87830"/>
+  <text x="16" y="22" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700" fill="#F5F0E8" letter-spacing="-0.5">VI</text>
+</svg>
